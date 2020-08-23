@@ -288,7 +288,7 @@ finally:
 
 # %%
 from IPython.display import Image
-Image(url='output/3d_wave.gif')
+Image(url='output/3d_wave.gif', embed=True)
 
 # %% tags=[]
 import numpy as np
