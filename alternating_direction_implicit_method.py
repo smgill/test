@@ -285,8 +285,10 @@ finally:
 # The animation below is produced in the following cell. Blues and reds denote negative and positive magnitudes, respectively. Notice that the Dirichlet boundary condition causes the wave to reflect around the domain and then interfere with itself. 
 #
 # This is a more accurate representation of certain waves encountered in nature than the one-dimensional sine waves typically used. For example, this animation could be used to picture acoustic pressure in a sound wave.
-#
-# ![](https://media.giphy.com/media/3oD3YveOJWdwIAfZ5e/giphy.gif)
+
+# %%
+from IPython.display import Image
+Image(url='output/3d_wave.gif')
 
 # %% tags=[]
 import numpy as np
