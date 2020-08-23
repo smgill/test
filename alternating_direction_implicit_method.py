@@ -286,7 +286,7 @@ finally:
 #
 # This is a more accurate representation of certain waves encountered in nature than the one-dimensional sine waves typically used. For example, this animation could be used to picture acoustic pressure in a sound wave.
 #
-# <img src="output/3d_wave.gif" width="768" align="center">
+# ![](https://media.giphy.com/media/3oD3YveOJWdwIAfZ5e/giphy.gif)
 
 # %% tags=[]
 import numpy as np
